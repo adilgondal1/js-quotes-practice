@@ -31,11 +31,6 @@
       "author": "Sandra Day O'Connor"
     },
     {
-      "id": 7,
-      "quote": "Tell me and I forget, teach me and I remember, involve me and I learn.",
-      "author": "Benjamin Franklin"
-    },
-    {
       "id": 8,
       "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
       "author": "Winston Churchhill"
@@ -60,6 +55,51 @@
       "id": 1,
       "quoteId": 1,
       "createdAt": 1558524356
+    },
+    {
+      "quoteId": 10,
+      "createdAt": 1595157285086,
+      "id": 2
+    },
+    {
+      "quoteId": 10,
+      "createdAt": 1595157285932,
+      "id": 3
+    },
+    {
+      "quoteId": 10,
+      "createdAt": 1595157286342,
+      "id": 4
+    },
+    {
+      "quoteId": 1,
+      "createdAt": 1595157289538,
+      "id": 5
+    },
+    {
+      "quoteId": 1,
+      "createdAt": 1595157289714,
+      "id": 6
+    },
+    {
+      "quoteId": 1,
+      "createdAt": 1595157289874,
+      "id": 7
+    },
+    {
+      "quoteId": 1,
+      "createdAt": 1595157290018,
+      "id": 8
+    },
+    {
+      "quoteId": 1,
+      "createdAt": 1595157290148,
+      "id": 9
+    },
+    {
+      "quoteId": 1,
+      "createdAt": 1595157326310,
+      "id": 10
     }
   ]
 }
